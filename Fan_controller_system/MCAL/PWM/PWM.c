@@ -2,7 +2,7 @@
  * PWM.c
  *
  *  Created on: Apr 3, 2023
- *      Author: user
+ *      Author: Ahmed Bahaa
  */
 #include "../GPIO/gpio.h" /* to use GPIO API's*/
 #include "../../common_macros.h"
