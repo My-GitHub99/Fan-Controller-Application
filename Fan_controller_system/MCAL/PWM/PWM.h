@@ -2,7 +2,7 @@
  * PWM.h
  *
  *  Created on: Apr 3, 2023
- *      Author: user
+ *      Author: Ahmed Bahaa
  */
 
 #ifndef MCAL_PWM_PWM_H_
