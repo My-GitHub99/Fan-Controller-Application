@@ -2,7 +2,7 @@
  * adc.h
  *
  *  Created on: Apr 3, 2023
- *      Author: user
+ *      Author: Ahmed Bahaa
  */
 
 #ifndef MCAL_ADC_ADC_H_
