@@ -44,13 +44,4 @@ void TestMotor(void)
 
 
 
-/*int main ()
-{
-ADC_init(&ADC_instance1);
-LCD_init();
-	for(;;)
-	{
-		LCD_moveCursor(1,4);
-		testSensor();
-	}
-}*/
+
