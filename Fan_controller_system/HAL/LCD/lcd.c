@@ -6,7 +6,7 @@
  *
  * Description: Source file for the LCD driver
  *
- * Author: Mohamed Tarek
+ * Author:Ahmed Bahaa
  *
  *******************************************************************************/
 #define 	F_CPU   1000000UL
