@@ -2,7 +2,7 @@
  * sensor.h
  *
  *  Created on: Apr 3, 2023
- *      Author: user
+ *      Author: Ahmed Bahaa
  */
 
 #ifndef HAL_SENSOR_SENSOR_H_
