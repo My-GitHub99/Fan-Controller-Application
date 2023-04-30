@@ -1,5 +1,5 @@
-# Fan-Controller-Application
-Developed an embedded application for controlling the temperature inside a room using a Fan, LM35 sensor, LCD, and ATmega 32 microcintroller.
+# Project Description
+The aim of this project is to design a temperature-controlled fan using ATmega32 microcontroller, in which the fan is automatically turned ON or OFF according to the temperature.
 
 
 The microcontroller will continuously monitor the temperature and based on the temperature value, the microcontroller will drive the fan like that: 
