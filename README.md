@@ -11,6 +11,7 @@ c. If the temperature is greater than or equal 60C turn on the fan with 50% of i
 
 d. If the temperature is greater than or equal 90C turn on the fan with 75% of its
 
+e. If the temperature is greater than or equal 120C turn on the fan with 100% of its maximum speed.
 
 # Simulation
 
